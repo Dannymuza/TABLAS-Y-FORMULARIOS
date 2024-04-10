@@ -1,0 +1,20 @@
+body{
+ background: rgba(170, 159, 133, 0.927);
+    color: rgb(65, 97, 97);
+}
+  h1{color:rgb(77, 35, 5);background-color: rgb(113, 96, 62);
+}
+
+  h4{ color: rgba(66, 53, 35, 0.813);
+  }
+  
+
+  header{ color: rgb(35, 105, 158); 
+}
+.uno{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.2rem;
+}
+.dos{
+    font-size: 3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
